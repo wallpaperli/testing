@@ -25,15 +25,6 @@
         "rating": 4,
         "link": "https://api.bitlabs.ai/v1/client/networks/1/surveys/1430625/open?token=..."
       }
-    ],
-    "qualification": {
-      "network_id": 3,
-      "question_id": "218",
-      "country": "DE",
-      "language": "de",
-      "is_standard_profile": false
-    }
-  },
-  "status": "success",
-  "trace_id": "1dc6786b10a62ec6"
+    ], 
+  "status": "success"
 }
