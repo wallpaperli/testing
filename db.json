@@ -1,30 +1,5 @@
 {
   "data": {
-    "restriction_reason": null,
-    "surveys": [
-      {
-        "network_id": 1,
-        "id": "1430625",
-        "country": "DE",
-        "language": "de",
-        "cpi": "0.63",
-        "value": "63",
-        "loi": 15,
-        "remaining": 926,
-        "details": {
-          "category": {
-            "name": "Other",
-            "icon_url": "https://v2-static.bitlabs.ai/categories/other.svg"
-          },
-          "network": {
-            "name": "Innovate",
-            "icon_url": "https://v2-static.bitlabs.ai/networks/innovate.png"
-          },
-          "difficulty": "EASY"
-        },
-        "rating": 4,
-        "link": "https://api.bitlabs.ai/v1/client/networks/1/surveys/1430625/open?token=..."
-      }
-    ], 
-  "status": "success"
+    "restriction_reason": null
+  }
 }
